@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 };
 
 const CONTACT = {
-  email: 'camara@asiapacific.cl',
+  email: 'Camara@asiapacific.cl',
   phoneE164: '+56975769493',
   phoneNice: '+56 9 7576 9493',
   street: 'Fidel Oteiza 1916',
