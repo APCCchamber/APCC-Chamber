@@ -27,8 +27,7 @@ export default function Page() {
 
         <h1 className="mt-6 text-3xl md:text-4xl font-semibold">¡Gracias por escribirnos!</h1>
         <p className="mt-3 text-neutral-300">
-          Recibimos tu solicitud y nuestro equipo te responderá a la brevedad
-          (lunes a viernes, 09:00–18:00 GMT-3).
+          Recibimos tu solicitud y nuestro equipo te responderá a la brevedad.
         </p>
 
         <div className="mt-6 rounded-2xl border border-neutral-800 bg-neutral-900 p-6 text-left">
