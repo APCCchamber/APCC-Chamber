@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 };
 
 const CONTACT = {
-  email: 'info@asiapacific-chamber.com',
+  email: 'Camara@asiapacific.cl',
   phoneE164: '+56975769493',
   phoneNice: '+56 9 7576 9493',
 };
