@@ -229,8 +229,7 @@ export const EVENTS: EventItem[] = [
 
   summary: 'Encuentro enfocado en oportunidades y desafíos para mujeres empresarias en el contexto Asia Pacífico',
 
- guests: ['APCC'],
-  
+guests: ['APCC'],  
   sponsors: [
     { name: 'APCC', logo: '/sponsors/apcc.png', role: 'Organiza' }
   ],
