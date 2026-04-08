@@ -227,7 +227,8 @@ export const EVENTS: EventItem[] = [
   location: 'Av. Costanera Sur N° 2710, Providencia, Chile',
   poster: '/events/posters/Taller mujeres 2026.jpeg',
 }
-  
+  ];
+
 export function getEventBySlug(slug: string) {
   return EVENTS.find((e) => e.slug === slug);
 }
