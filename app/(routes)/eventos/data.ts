@@ -227,14 +227,14 @@ export const EVENTS: EventItem[] = [
   location: 'Av. Costanera Sur N° 2710, Providencia, Chile',
   poster: '/events/posters/taller-mujeres-2026.jpeg',
 
-  summary: 'Encuentro enfocado en oportunidades y desafíos para mujeres empresarias en el contexto Asia Pacífico.',
-  
+  summary: 'Encuentro enfocado en oportunidades y desafíos para mujeres empresarias en el contexto Asia Pacífico',
+
   guests: [
     'APCC',
     'Invitadas especiales'
   ],
-}
-
+},
+  
 export function getEventBySlug(slug: string) {
   return EVENTS.find((e) => e.slug === slug);
 }
