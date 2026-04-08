@@ -216,7 +216,6 @@ export const EVENTS: EventItem[] = [
     ],
     ended: true,
   },
-];
 // 5) 21 Ene 2026 · Mesa de Trabajo (FINALIZADO)
   {
     slug: '2026-10-mesa-Trabajo-comercio-asia',
