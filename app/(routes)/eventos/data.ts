@@ -222,13 +222,18 @@ export const EVENTS: EventItem[] = [
   slug: '2026-10-mesa-Trabajo-comercio-asia',
   title: 'Mesa de Trabajo: Oportunidades y Desafíos para Mujeres Empresarias y Emprendedoras en Asia Pacífico',
   date: '21 Ene 2026',
-  time: '09:30–12:00',
+  time: '09:30-12:00',
   mode: 'Mesa de Trabajo',
   location: 'Av. Costanera Sur N° 2710, Providencia, Chile',
-  poster: '/events/posters/Taller mujeres 2026.jpeg',
-}
+  poster: '/events/posters/taller-mujeres-2026.jpeg',
+
+  summary: 'Encuentro enfocado en oportunidades y desafíos para mujeres empresarias en el contexto Asia Pacífico.',
   
-  ];
+  guests: [
+    'APCC',
+    'Invitadas especiales'
+  ],
+}
 
 export function getEventBySlug(slug: string) {
   return EVENTS.find((e) => e.slug === slug);
