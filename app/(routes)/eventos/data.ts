@@ -218,16 +218,15 @@ export const EVENTS: EventItem[] = [
   },
   
 // 5) 21 Ene 2026 · Mesa de Trabajo (FINALIZADO)
-  {
-    slug: '2026-10-mesa-Trabajo-comercio-asia',
-    title:
-      'Mesa de Trabajo: Oportunidades y Desafíos para Mujeres Empresarias y Emprendedoras en Asia Pacífico',
-    date: '21 Ene 2026',
-    time: '09:30–12:00',
-    mode: 'Mesa de Trabajo',
-    location: 'Av. Costanera Sur N° 2710, Providencia, Chile',
-    poster: '/events/posters/Taller mujeres 2026.jpeg',
-  },
+{
+  slug: '2026-10-mesa-Trabajo-comercio-asia',
+  title: 'Mesa de Trabajo: Oportunidades y Desafíos para Mujeres Empresarias y Emprendedoras en Asia Pacífico',
+  date: '21 Ene 2026',
+  time: '09:30–12:00',
+  mode: 'Mesa de Trabajo',
+  location: 'Av. Costanera Sur N° 2710, Providencia, Chile',
+  poster: '/events/posters/Taller mujeres 2026.jpeg',
+},
   
 export function getEventBySlug(slug: string) {
   return EVENTS.find((e) => e.slug === slug);
