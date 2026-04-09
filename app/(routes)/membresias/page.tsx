@@ -27,24 +27,16 @@ const PLANS: Plan[] = [
     price: '$380.000 CLP / año',
     blurb:
       'Para PYMEs e importadores que dan sus primeros pasos con Asia y necesitan guía y comunidad.',
-    features: [
-      'Certificado digital nominativo válido por 12 meses que acredita la condición de socio activo de la Cámara
-de Comercio Asia Pacífico Chile',
-      'Recepción mensual de un boletín informativo con oportunidades comerciales en Asia-Pacífico,
-proveedores, ferias internacionales y alertas relevantes del mercado',
-      'Acceso sin costo a todos los webinars informativos organizados por la Cámara sobre tendencias,
-aduanas, logística y financiamiento, incluyendo el acceso posterior a sus grabaciones',
-      'Participación en una mesa gremial sectorial con derecho a voz, permitiendo intervenir activamente en
-reuniones trimestrales, sin derecho a votación',
-      'Acceso a descuentos preferenciales en cursos, seminarios y actividades formativas organizadas
-directamente por la Cámara',
-      'Ingreso a una biblioteca digital privada con guías prácticas, plantillas, checklists y material técnico
-actualizado semestralmente',
-      'Participación en grupos segmentados por rubro, moderados por la Cámara, para intercambio de
-contactos, experiencias y oportunidades comerciales',
-      'Prioridad en la postulación e inscripción a misiones comerciales organizadas por la Cámara (costos de
-viaje y estadía no incluidos)',
-    ],
+   features: [
+  'Certificado digital nominativo válido por 12 meses que acredita la condición de socio activo de la Cámara de Comercio Asia Pacífico Chile',
+  'Recepción mensual de un boletín informativo con oportunidades comerciales en Asia-Pacífico, proveedores, ferias internacionales y alertas relevantes del mercado',
+  'Acceso sin costo a todos los webinars informativos organizados por la Cámara sobre tendencias, aduanas, logística y financiamiento, incluyendo el acceso posterior a sus grabaciones',
+  'Participación en una mesa gremial sectorial con derecho a voz, permitiendo intervenir activamente en reuniones trimestrales, sin derecho a votación',
+  'Acceso a descuentos preferenciales en cursos, seminarios y actividades formativas organizadas directamente por la Cámara',
+  'Ingreso a una biblioteca digital privada con guías prácticas, plantillas, checklists y material técnico actualizado semestralmente',
+  'Participación en grupos segmentados por rubro, moderados por la Cámara, para intercambio de contactos, experiencias y oportunidades comerciales',
+  'Prioridad en la postulación e inscripción a misiones comerciales organizadas por la Cámara (costos de viaje y estadía no incluidos)',
+],
     ctaHref: '/join?plan=Essential&utm_source=site&utm_medium=membresias&utm_campaign=signup',
     ctaLabel: 'Unirme a Essential',
     note: 'Ideal para validar oportunidades y estructurar tus primeros negocios con Asia.',
