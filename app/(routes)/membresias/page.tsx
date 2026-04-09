@@ -40,7 +40,7 @@ const PLANS: Plan[] = [
     ctaHref: '/join?plan=Essential&utm_source=site&utm_medium=membresias&utm_campaign=signup',
     ctaLabel: 'Unirme a Essential',
     note: 'Ideal para validar oportunidades y estructurar tus primeros negocios con Asia.',
-  },
+  };
   {
     id: 'business',
     name: 'Business',
