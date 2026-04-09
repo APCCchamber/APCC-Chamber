@@ -36,11 +36,11 @@ const PLANS: Plan[] = [
   'Ingreso a una biblioteca digital privada con guías prácticas, plantillas, checklists y material técnico actualizado semestralmente',
   'Participación en grupos segmentados por rubro, moderados por la Cámara, para intercambio de contactos, experiencias y oportunidades comerciales',
   'Prioridad en la postulación e inscripción a misiones comerciales organizadas por la Cámara (costos de viaje y estadía no incluidos)',
-],
+];
     ctaHref: '/join?plan=Essential&utm_source=site&utm_medium=membresias&utm_campaign=signup',
     ctaLabel: 'Unirme a Essential',
     note: 'Ideal para validar oportunidades y estructurar tus primeros negocios con Asia.',
-  };
+  }
   {
     id: 'business',
     name: 'Business',
